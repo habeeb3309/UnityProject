@@ -6,6 +6,9 @@ public class PlayerController : MonoBehaviour
 {
     public float moveSpeed;
 
+    public Rigidbody rd;
+
+
     // Start is called before the first frame update
     void Start()
     {
